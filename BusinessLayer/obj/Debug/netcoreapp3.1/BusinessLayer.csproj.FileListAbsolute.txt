@@ -1,0 +1,10 @@
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+G:\Learning\C Sharp\Project\DesignPatternDemo\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

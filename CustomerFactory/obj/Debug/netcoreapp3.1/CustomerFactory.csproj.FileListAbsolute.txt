@@ -1,0 +1,13 @@
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\bin\Debug\netcoreapp3.1\CustomerFactory.deps.json
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\bin\Debug\netcoreapp3.1\CustomerFactory.dll
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\bin\Debug\netcoreapp3.1\CustomerFactory.pdb
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.GeneratedMSBuildEditorConfig.editorconfig
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.AssemblyInfoInputs.cache
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.AssemblyInfo.cs
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.csproj.CoreCompileInputs.cache
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.csproj.CopyComplete
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.dll
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.pdb
+G:\Learning\C Sharp\Project\DesignPatternDemo\CustomerFactory\obj\Debug\netcoreapp3.1\CustomerFactory.csproj.AssemblyReference.cache
